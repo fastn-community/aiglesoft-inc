@@ -1,10 +1,10 @@
 -- import: fastn
 
--- fastn.package: fastn-community.github.io/aiglesoft-inc
-favicon: /-/fastn-community.github.io/aiglesoft-inc/favicon.ico
+-- fastn.package: fastn-community.github.io/acme-inc-3
+favicon: /-/fastn-community.github.io/acme-inc-3/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/aiglesoft-theme as theme
--- fastn.dependency: fastn-community.github.io/aiglesoft-inc
+-- fastn.dependency: fastn-community.github.io/startup-theme-2 as theme
+-- fastn.dependency: fastn-community.github.io/acme-inc-3
 -- fastn.dependency: fastn-community.github.io/opensans-typography as typo
 -- fastn.dependency: fastn-community.github.io/golden-sunlight-cs as cs
 -- fastn.dependency: fastn-community.github.io/site-doc
@@ -12,8 +12,8 @@ favicon: /-/fastn-community.github.io/aiglesoft-inc/favicon.ico
 
 -- fastn.auto-import: theme
 -- fastn.auto-import: theme/common
--- fastn.auto-import: fastn-community.github.io/aiglesoft-inc/FASTN/ws
--- fastn.auto-import: fastn-community.github.io/aiglesoft-inc/assets
+-- fastn.auto-import: fastn-community.github.io/acme-inc-3/FASTN/ws
+-- fastn.auto-import: fastn-community.github.io/acme-inc-3/assets
 
 -- fastn.sitemap:
 
