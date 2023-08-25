@@ -1,4 +1,5 @@
 -- import: fastn-community.github.io/aiglesoft-theme/blog-meta/patrica
+-- import: fastn-community.github.io/aiglesoft-theme/blog-meta/nandhini
 
 -- common.post-meta meta: Keep your files safe with Martex
 post-image: $assets.files.assets.post2.jpg
@@ -29,3 +30,9 @@ post-image: $assets.files.assets.post1.jpg
 image: $assets.files.assets.avatar.png
 author: $patrica.patrica
 post-url: blog-articles/sample-post-1/
+
+-- common.post-meta post-2: Understanding concepts of Article 16
+post-image: $assets.files.assets.post2.png
+image: $assets.files.assets.avatar.png
+author: $nandhini.nandhini
+post-url: /blog-articles/sample-post-2/
