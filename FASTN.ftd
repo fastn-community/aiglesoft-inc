@@ -24,3 +24,4 @@ favicon: /-/fastn-community.github.io/aiglesoft-inc/favicon.ico
 # Blog: /blog/
 
 -- fastn.redirects:
+/launching-color-support/: /color-support/
