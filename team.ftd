@@ -20,6 +20,12 @@ image: $assets.files.assets.meenu-kumari.jpg
 
 Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
 
+-- ws.member: Rithik Seth
+profile: Software Developer
+image: $assets.files.assets.rithik.jpg
+
+Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
+
 -- ws.member: Sophie Moore
 profile: VP of Marketing
 image: $assets.files.assets.sophie-moore.jpg
