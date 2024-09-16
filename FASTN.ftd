@@ -24,3 +24,4 @@ favicon: /-/fastn-community.github.io/acme-inc-3/favicon.ico
 # Blog: /blog/
 
 -- fastn.redirects:
+/launching-color-support/: /color-support/
